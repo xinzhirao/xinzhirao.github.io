@@ -31,12 +31,12 @@ Working Papers
 ======
 * "[Content Creator Multihoming and Attention Spillovers Across Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6602278)" (**Xinzhi Rao**, Jingyan Dai, Yulin Hao, and Liangfei Qiu). In preparation for submission. **Job Market Paper.**
   * Presented at: CIST 2025; POMS Annual Conference 2026; Boston University Platform Strategy Research Symposium 2026 (long talk); INFORMS Annual Meeting 2026 (scheduled)
+* "From Ally to Adversary: The Impact of Amazon's Wholesale Program on Seller Revenue" (**Xinzhi Rao**, Yuan Sun, and Liangfei Qiu). In preparation for submission.
+  * Presented at: POMS Annual Conference 2025
 * "Impact of Course Wait Time and Match on Engagement on Online Educational Platforms" (**Xinzhi Rao**, Anuj Kumar, Tharanga Rajapakshe, and Debjit Roy). Data analysis in progress.
   * Presented at: SCECR 2026
 * "Centralization and Sentiment Dampening in LLM-Generated Product Review Summaries" (Jingyan Dai, **Xinzhi Rao**, Anuj Kumar, and Kai Sun). IRB approved; experiment in progress.
   * Presented at: POMS Annual Conference 2026
-* "From Ally to Adversary: The Impact of Amazon's Wholesale Program on Seller Revenue" (**Xinzhi Rao**, Yuan Sun, and Liangfei Qiu). In preparation for submission.
-  * Presented at: POMS Annual Conference 2025
 * "Vulnerability Disclosures and Development Activity in the Open Source Software Supply Chain" (**Xinzhi Rao**, Jingchuan Pu, and Brian Lee). Data analysis in progress.
 
 Selected Presentations
