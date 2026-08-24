@@ -472,3 +472,37 @@
     }
   }
 }
+
+
+/*
+   CV page: title line with PDF icon on the right
+   ========================================================================== */
+
+.page__content,
+.archive {
+  .cv-download {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1em;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .cv-download__icon {
+    font-size: 2.8em;
+    line-height: 1;
+    color: #8b0000;
+    text-decoration: none !important;
+
+    &:visited {
+      color: #8b0000;
+    }
+
+    &:hover {
+      color: #b22222;
+    }
+  }
+}
