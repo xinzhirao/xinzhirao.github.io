@@ -11,7 +11,7 @@ Hi, welcome to my personal website! My name is Xinzhi Rao (饶莘植, pronounced
 
 My research interest sits at the intersection of information systems, platform strategy, and the economics of artificial intelligence. My research comprises two interrelated streams: (1) **platform strategy and information design**, where I study how complementors' strategic choices and platforms' information-provision decisions shape participation, performance, and market outcomes; and (2) **the economics of generative AI**, where I examine how generative AI reshapes what users contribute on digital platforms and what information consumers receive.
 
-Methodologically, my work involves causal inference with quasi-experimental designs and randomized experiments to understand the causal impacts of platform strategy and generative AI. I also adapt and integrate machine learning and large language model tools for empirical studies.
+Methodologically, my work involves causal inference with quasi-experimental designs and randomized experiments to understand the causal impacts of platform strategy and generative AI. I also adapt and integrate machine/deep learning and LLM tools for empirical studies.
 
 **I am on the 2026–27 academic job market.**
 
