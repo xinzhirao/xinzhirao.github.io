@@ -402,65 +402,43 @@
 
 
 /*
-   Paper entries and collapsible abstracts (used on the About page)
+   Paper entries on the Research page
    ========================================================================== */
 
-.page__content {
+.page__content,
+.archive {
   .paper {
-    margin: 0 0 1.35em;
+    margin: 0 0 1.7em;
 
     p {
       margin: 0;
     }
 
-    .paper__title {
-      font-weight: bold;
+    .paper__headline {
+      padding-left: 1.7em;
+      text-indent: -1.7em;
     }
 
+    .paper__no,
+    .paper__title,
     .paper__status {
       font-weight: bold;
     }
 
-    .paper__meta {
-      margin-top: 0.2em;
-      font-size: 0.85em;
-      opacity: 0.75;
-    }
-  }
-
-  details.abstract {
-    margin: 0.35em 0 0;
-    font-size: 0.9em;
-
-    summary {
-      display: inline-block;
-      cursor: pointer;
-      color: var(--global-link-color);
-      font-weight: bold;
-      list-style: none;
-
-      &::-webkit-details-marker {
-        display: none;
-      }
-
-      &::before {
-        content: "\25B8\00a0"; /* small right-pointing triangle */
-      }
-
-      &:hover {
-        color: var(--global-link-color-hover);
-      }
+    .paper__body {
+      margin: 0.35em 0 0 1.7em;
     }
 
-    &[open] summary::before {
-      content: "\25BE\00a0"; /* small down-pointing triangle */
-    }
-
-    p {
-      margin: 0.5em 0 0;
-      padding: 0.25em 0 0.25em 0.9em;
-      border-left: 3px solid var(--global-border-color);
+    .paper__abstract {
+      font-size: 0.9em;
       text-align: justify;
+    }
+
+    .paper__meta {
+      margin-top: 0.35em;
+      font-size: 0.85em;
+      font-style: italic;
+      opacity: 0.75;
     }
   }
 }
