@@ -70,7 +70,7 @@ Working Papers
 <p class="paper__headline"><span class="paper__no">6.</span> <span class="paper__title">“Security Vulnerabilities on GitHub (working title),”</span> <strong>Xinzhi Rao</strong>, Jingchuan Pu, and Brian Lee. </p>
 <div class="paper__body">
 <details class="abstract"><summary>Abstract</summary>
-<p class="paper__abstract">Modern digital infrastructure relies heavily on open source software, where a single vulnerable repository can expose every project that depends on it. This project examines how public disclosure of vulnerabilities changes development activity, both in the affected repositories and in their downstream dependents. We draw on the GitHub Advisory Database, dependency graphs, and commit histories covering around 36,000 repositories from 2019 to 2026, and leverage the staggered timing of disclosures in a difference-in-differences framework. The project sheds light on who bears the maintenance burden after disclosure, with implications for coordinated disclosure policy.</p>
+<p class="paper__abstract">Modern digital infrastructure relies heavily on open source software, where a single vulnerable repository can expose every project that depends on it. This project examines how public disclosure of vulnerabilities changes development activity, both in the affected repositories and in their downstream dependents. We draw on the GitHub Advisory Database, dependency graphs, and commit histories covering around 36,000 repositories from 2019-2026, and leverage the staggered timing of disclosures in a difference-in-differences framework. The project sheds light on who bears the maintenance burden after disclosure, with implications for coordinated disclosure policy.</p>
 </details>
 </div>
 </div>
